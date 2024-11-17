@@ -43,10 +43,12 @@ Synthesis RTL Schematic :
 
 
 Area report:
+
 ![Screenshot 2024-11-17 133828](https://github.com/user-attachments/assets/98e38be1-0366-4568-a20a-f19fdb49f4cc)
 
 
 Power Report:
+
 ![Screenshot 2024-11-17 133708](https://github.com/user-attachments/assets/2472ecdc-6306-4c8d-9b97-ac0a42b4c934)
 
 
