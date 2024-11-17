@@ -11,7 +11,7 @@ Functional Simulation: Incisive Simulator (ncvlog, ncelab, ncsim)
 Synthesis: Genus
 
 ### Step 1: Getting Started
-
+ 
 Synthesis requires three files as follows,
 
 ◦ Liberty Files (.lib)
