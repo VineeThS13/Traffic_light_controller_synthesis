@@ -39,10 +39,16 @@ The Liberty files are present in the library path,
 • Genus Script file with .tcl file Extension commands are executed one by one to synthesize the netlist.
 
 Synthesis RTL Schematic :
+![Screenshot 2024-11-17 165835](https://github.com/user-attachments/assets/0580a4b5-5a10-4990-aba6-dae4f5682a30)
+
 
 Area report:
+![Screenshot 2024-11-17 133828](https://github.com/user-attachments/assets/98e38be1-0366-4568-a20a-f19fdb49f4cc)
+
 
 Power Report:
+![Screenshot 2024-11-17 133708](https://github.com/user-attachments/assets/2472ecdc-6306-4c8d-9b97-ac0a42b4c934)
+
 
 Result:
 
